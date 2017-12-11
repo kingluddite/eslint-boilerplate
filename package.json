@@ -1,5 +1,5 @@
 {
-  "name": "eslint/prettier boilerplate",
+  "name": "eslint-prettier-boilerplate",
   "version": "1.0.0",
   "description": "Starting point for build modern websites",
   "main": "index.js",
