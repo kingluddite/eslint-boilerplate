@@ -1,0 +1,24 @@
+{
+  "name": "eslint/prettier boilerplate",
+  "version": "1.0.0",
+  "description": "Starting point for build modern websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Kingluddite",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "4.10.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "2.7.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.1",
+    "eslint-plugin-prettier": "2.3.1",
+    "eslint-plugin-react": "^7.4.0",
+    "prettier": "1.8.2",
+    "prettier-eslint-cli": "^4.4.0",
+  }
+}
